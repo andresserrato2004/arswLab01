@@ -11,14 +11,12 @@
 
 ####  complete las clases CountThread, para que las mismas definan el ciclo de vida de un hilo que imprima por pantalla los números entre A y B.
 
-
 ![alt text](/img/countThread.png)
 
 #### Complete el método main de la clase CountMainThreads
 
 
 ![alt text](/img/main.png)
-
 
 #### al ejecutar el codigo usando ```start()``` inician a ejecutarse los hilos de forma paralela y genera la siguiente salida  
 

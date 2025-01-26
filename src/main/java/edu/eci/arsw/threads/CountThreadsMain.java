@@ -26,5 +26,4 @@ public class CountThreadsMain {
         Thread2.run();
         Thread3.run();
     }
-    
 }
