@@ -21,7 +21,7 @@ public class CountThreadsMain {
         Thread2.start();
         Thread3.start();
      */
-
+    
         Thread1.run();
         Thread2.run();
         Thread3.run();
