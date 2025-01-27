@@ -47,6 +47,6 @@ Para probar el funcionamiento de la clase PiDigits, se crearon pruebas unitarias
 
 las cuales se encargan de verificar que el resultado obtenido sea el esperado.
 
-![Resultado de las pruebas](img_2.png)
+![img_3.png](img_3.png)
 
-
+## Parte III Evaluación de Desempeño

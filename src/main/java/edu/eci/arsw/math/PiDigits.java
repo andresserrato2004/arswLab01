@@ -1,7 +1,6 @@
 package edu.eci.arsw.math;
 
 import edu.eci.arsw.threads.PiDigitsThread;
-
 import java.util.ArrayList;
 import java.util.List;
 
